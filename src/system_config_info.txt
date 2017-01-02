@@ -1,0 +1,6 @@
+#######Mysql连接#######
+jdbcUrl = jdbc:mysql://127.0.0.1/360eval?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password = root
+devMode = true
+sid = 0;
